@@ -1,0 +1,10 @@
+login url: https://melissay4.sg-host.com/wp-admin
+username: dev@goodwebdesignco.com.au
+password: aShLY(8jr)PeAYyUXLN11EMd
+
+
+FTP
+host: ftp.melissay4.sg-host.com
+port: 21
+user: dev@melissay4.sg-host.com
+password: (dC.`bh41;$i
